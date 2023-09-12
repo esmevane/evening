@@ -1,0 +1,4 @@
+- [x] Does it make sense to make a "Combat Style" progression? What about a "Career" progression? How does that fit with "Expertise"? Are they *both* an expertise? Doesn't that overload the concept?
+- [x] How about the same question, but aimed at "Origins". This rolls ancestry, culture, all of it, into one thing. Is this better, or worse?
+- [x] If these both need to be split, then what does that mean for the overall choices that players need to make when leveling up their characters? Right now there are 4 choices. What about when there are 6?
+- [ ] What exactly could I call Attributes/Abilities? Abilities should stay, but going with three "A"s seems to confuse me, and readers. Technique? Score? Stat?
