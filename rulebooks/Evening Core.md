@@ -1,3 +1,6 @@
+## Introduction
+
+![[Introduction]]
 ## The Rules
 
 ![[The Rules]]
