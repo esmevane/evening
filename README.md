@@ -6,16 +6,20 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 ---
 ## Overview
 
-Evening is a story-forward narrative game system, with a tactical 
+Evening is a story-forward narrative game system, with a tactical core but a focus on dramatic play, improvisational tooling, and fun, obvious mechanics.
 
-tabletop game engine with a focus on dramatic play, improvisational tooling, and fun, obvious mechanics.
-## Lineage
+Every game of Evening has a different **format**. Things like heists, exploration, combat, and social intrigues are all modeled as formats. Each session, you pick a format and play it. So while you keep your characters, if you choose, the game you play with them can vary a lot.
+
+### I Just Want the PDF
+
+There's some stuff in the `build` folder for you.
+## Predecessors
 
 Evening is made from smashing together some of the best and most popular tabletop systems, all open sourced. The most notable three origination systems are:
 
-- [The 5th Edition SRD](https://dnd.wizards.com/resources/systems-reference-document), which lays the foundation of the core framework, which is a [[d20-centric]] tactical game with a [[level-based progression]].
-- [Blades in the Dark](https://bladesinthedark.com/basics), a narrative game about a circle of scoundrels trying to make their mark on a rad ghost city. Blades gives us the idea of [[narrative prompt back-pressure]], and [[improvisational tools over premade kits]].
-- [The Cypher System](https://csol.montecookgames.com/), which itself is a narrative focused d20-centric general framework. From Cypher, we take the concept of [[compositional character creation]], and the idea of [[tiered difficulty ladders]].
+- [The 5th Edition SRD](https://dnd.wizards.com/resources/systems-reference-document), which lays the foundation of the core framework, which is a *d20-centric tactical game* with a *level-based progression*.
+- [Blades in the Dark](https://bladesinthedark.com/basics), a narrative game about a circle of scoundrels trying to make their mark on a rad ghost city. Blades gives us the idea of *narrative prompt back-pressure*, and *improvisational tools over premade kits*.
+- [The Cypher System](https://csol.montecookgames.com/), which itself is a narrative focused d20-centric general framework. From Cypher, we take the concept of *compositional character creation*, and the idea of *tiered difficulty ladders*.
 
 ## What you're looking at
 
