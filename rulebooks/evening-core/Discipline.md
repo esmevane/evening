@@ -11,4 +11,4 @@ Disciplines are areas of particular interest or study that you have begun to exc
 
 **Re-designing your disciplines.** Whenever you would gain a discipline level, you may exchange one discipline level that you have already purchased for a different discipline that you qualify for. You have learned something new and chosen to put aside something you no longer wish to do.
 
-![[Discipline Progression]]
+![[Table - Discipline Progression]]

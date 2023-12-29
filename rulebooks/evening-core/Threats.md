@@ -5,13 +5,14 @@ For the protagonists of your game, it makes sense to build out in depth sheets. 
 
 When you need to create a theater of tactical combat for the characters to fight in, use threats. Threats are creatures that scale and award experience like [[Challenges|challenges]].
 
-**Engaging a threat.** Threats are combat encounters. When you engage a threat, roll iniative, and join combat.
+**Engaging a threat.** Threats are combat encounters. When you engage a threat, roll initative, and join combat.
 
 ### Threat Rating
 
 Threats have a rating from 1-10. Rating sets a baseline for how deadly the threat is, determining the number of health dice it gets, and the base target number to avoid its attacks or hit it, its base damage.
 
-![[Threat Rating]]
+![[Table - Threat Rating]]
+
 **Health.** This is the health a threat starts at.
 
 **TN.** Defending against threat attacks, and attacks made agains the threat are made against its TN.

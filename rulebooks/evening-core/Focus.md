@@ -11,4 +11,4 @@ Focuses are powerful specializations or knacks that distinguish you from the you
 
 **Re-designing your focus.** Whenever you would gain an focus level, you may exchange one focus level that you have already spent for a different focus that you qualify for. You have learned something new and chosen to put aside something you no longer wish to do.
 
-![[Focus Progression]]
+![[Table - Focus Progression]]

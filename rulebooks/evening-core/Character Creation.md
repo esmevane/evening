@@ -2,8 +2,8 @@ Building an Evening character is usually about picking a few key things and then
 
 The process works something like this:
 
-1. You pick your starting [[abilities-table|abilities]]: **[[Finesse]]**, **[[Prowess]]**, **[[Resolve]]**. You begin with -1 in each, and have 4 points to distribute.
-2. Pick your starting [[attributes-table|attributes]]: **[[Body]]**, and **[[Mind]]**. You begin with -1 in each, and have 3 points to distribute.
+1. You pick your starting abilities: **[[Finesse]]**, **[[Prowess]]**, **[[Resolve]]**. You begin with -1 in each, and have 4 points to distribute.
+2. Pick your starting attributes: **[[Body]]**, and **[[Mind]]**. You begin with -1 in each, and have 3 points to distribute.
 3. Pick your beginning origin and class, applying the kits for each.
 5. Pick 3 additional aptitudes you like from the options granted to you by origin and class.
 6. Determine your health, aptitude bonus (+2), character level (1), and reserves.

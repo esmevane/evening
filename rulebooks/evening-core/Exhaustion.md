@@ -8,15 +8,7 @@ Some things which can cause exhaustion:
 
 **Levels of exhaustion.** Exhaustion is measured in levels, from 0 to 6. Each time you gain a level of exhaustion, that number goes up. Whenever you reach a new level, you suffer an additional penalty as a result, outlined in the level.
 
-| Exhaustion level | Effect                               |
-|:----------------:|:------------------------------------ |
-|        0         | None                                 |
-|        1         | Disadvantage on aptitude checks      |
-|        2         | Speed halved                         |
-|        3         | Disadvantage on attacks and defenses |
-|        4         | Health maximum is halved             |
-|        5         | Speed reduced to 0                   |
-|        6         | Death                                |
+![[Table - Exhaustion]]
 
 **Recovery.** Exhaustion is permanent, but certain things can reduce levels.
 

@@ -1,0 +1,1 @@
+Resolve describes a character’s endurance and resilience in the face of pressure. A character’s ego is a function of their Mind and Resolve, and a character’s durability is a function of their Body and Resolve. Pick Resolve whenever a character needs to outlast a physical test of endurance, focus through immense pain, or resist a powerful temptation.

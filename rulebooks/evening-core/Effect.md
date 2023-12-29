@@ -18,7 +18,7 @@ Typically the effect level will be *standard*. However, the narrator should feel
 - **Scale.** The proportion of cause and effect, physical and otherwise, weigh in on effect as well. Titans do incredible damage when they stomp on you.
 - **Stunts.** If the character pulls off something incredibly fun or cool, increase their effect level.
 
-![[db/tables/Effect Levels]]
+![[Table - Effect Levels]]
 
 **Interpreting effect levels.** What effect levels *mean* is based on the context of the action or check. The overall effect something has is a measure of how impactful the action is, but this means different things. For example, if you're in combat, it might impact your damage dice, but if you're meeting a challenge, it might simply modify how many successes (or failures) you get for a check.
 

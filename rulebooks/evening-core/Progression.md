@@ -20,9 +20,9 @@ Towers tracks progression with experience points: every time a character resolve
 
 - You may invest up to **25 points** of experience adding dice to your reserves, at the cost of **5 points** of experience each. Added reserves are the same die size as your largest reserve die.
 - You may invest up to **25 points** of experience increasing the permanent value of your **assets**, at the cost of **5 points** of experience per asset increased. You decide which asset to increase.
-- You may invest **5 points** of experience to give a non-player charcter or object you can carry **plot armor**. The narrator may not directly harm or endanger things with plot armor, but in exchange they may not be used in initiative or to resolve challenges or threads.
+- You may invest **5 points** of experience to give a non-player character or object you can carry **plot armor**. The narrator may not directly harm or endanger things with plot armor, but in exchange they may not be used in initiative or to resolve challenges or threads.
 - You may temporarily invest **1 point** of experience to increase the effect of a check by one step. Experience invested in this way is recovered at the beginning of your next downtime.
-- You may temporarily invest **5 points** of experience to reroll a check. You must take the new result. Experience invested in this way is recovered at the beginning of your next downtime.
+- You may temporarily invest **5 points** of experience to re-roll a check. You must take the new result. Experience invested in this way is recovered at the beginning of your next downtime.
 - You may temporarily invest **5 points** of experience to ignore 1 level of injury or exhaustion until your next downtime. This level doesn't go away, but you act as though your overall injury or exhaustion were one less for determining effects. Experience invested in this way is recovered at the end of your next downtime.
 
 **Recovering invested experience.** At the start of downtime, or upon resolution of a thread, you may choose to release up to **5 points** of invested experience. You lose whatever benefit you had invested that experience in, but recover the experience to invest in something else.
@@ -31,7 +31,7 @@ Towers tracks progression with experience points: every time a character resolve
 
 **Character progression.** As your character gains in levels, their aptitude bonus increases and they obtain new character features. However, their **minimum advancement rating** also increases, which means future experience can only be earned by meeting greater and greater challenges.
 
-![[Character Progression]]
+![[Table - Character Progression]]
 
 **Starting at level 0.** Some games kick off at level 0. This is a special level that offers no intrinsic bonuses at all. Unless otherwise stated by your narrator, level 0 characters become level 1 at the completion of their first storyline.
 

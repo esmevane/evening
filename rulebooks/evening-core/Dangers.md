@@ -9,7 +9,7 @@ What happens when your characters are in danger, and they could die, but it isn'
 
 Dangers have a rating from 1-10. Like threats, rating sets a baseline for how deadly the danger is, and the base target number to avoid its attacks, and its base damage.
 
-![[Danger Rating]]
+![[Table - Danger Rating]]
 
 **TN.** Defense checks to avoid attacks from a danger are made against its TN.
 
@@ -21,7 +21,7 @@ Dangers have a rating from 1-10. Like threats, rating sets a baseline for how de
 
 Resolving a danger is more like resolving a challenge than it is like engaging in combat with a threat, and so dangers have complexity. This works exactly like it does for challenges.
 
-![[Challenge Complexity]]
+![[Table - Challenge Complexity]]
 
 ### Customizing Damage
 

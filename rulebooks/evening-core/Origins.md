@@ -11,4 +11,4 @@ Origins are part of the [[Progression|progression]] of characters which reflects
 
 **Re-designing your origin.** Whenever you would gain an origin level, you may exchange one origin level that you have already spent for a different origin that you qualify for. This moment reflects a discovery of self that fundamentally evolves who you are as a person.
 
-![[Origin Progression]]
+![[Table - Origin Progression]]
