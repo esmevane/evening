@@ -13,7 +13,7 @@ Most moments of tension or uncertainty are left to chance in the form of a d20 c
 
 Here's a rough guideline:
 
-![[db/tables/Target Numbers]]
+![[Table - Target Numbers]]
 
 **Low target numbers.** If the TN is incredibly low and there's no chance for failure, don't even bother rolling. The check can automatically succeed. However, if there's even a remote chance of failure, lean towards rolling anyway.
 

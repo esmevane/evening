@@ -39,11 +39,11 @@ A challenge's scenario, threat, and resolution are all largely just short summar
 
 **Rating.** The challenge's rating is a number from 1-10, and determines the base target number for any checks characters make to resolve the challenge.
 
-![[Challenge Rating]]
+![[Table - Challenge Rating]]
 
 **Complexity.** The challenge's complexity is also a number from 1-10, but this determines how much effort the challenge takes to resolve. Complexity sets the number of successes required to resolve the challenge, and how many failures will end the challenge unsuccessfully.
 
-![[Challenge Complexity]]
+![[Table - Challenge Complexity]]
 
 **Urgency.** This is a timeframe, like *scene*, or *evening*, or *month*, or otherwise it is *none*. Challenges can expand to any length of time if you allow them, and sometimes that's okay for some of them. Other challenges, however, are very finite. Whenever a challenge's urgency is met, if it hasn't already been resolved, it ends and its threat occurs.
 
@@ -55,7 +55,7 @@ Any kind of aptitude check may be made to meet a challenge. There's no real rest
 
 **2. Determine target number.** Figure out the base target number for the check (the challenge rating x 3), and then modify it based on how suitable the aptitude used is.
 
-![[Action Suitability]]
+![[Table - Action Suitability]]
 
 **3. Make the check.** The player makes their character's aptitude check against the resulting target number.
 

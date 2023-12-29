@@ -13,4 +13,4 @@ Every character is different, and brings different skills and approaches, and ab
 
 **Re-designing your class.** Whenever you would gain a class level, you may exchange one class level that you have already spent for a different class that you qualify for.
 
-![[Class Progression]]
+![[Table - Class Progression]]

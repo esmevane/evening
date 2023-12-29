@@ -18,7 +18,7 @@ There's some stuff in the `build` folder for you.
 Evening is made from smashing together some of the best and most popular tabletop systems, all open sourced. The most notable three origination systems are:
 
 - [The 5th Edition SRD](https://dnd.wizards.com/resources/systems-reference-document), which lays the foundation of the core framework, which is a *d20-centric tactical game* with a *level-based progression*.
-- [Blades in the Dark](https://bladesinthedark.com/basics), a narrative game about a circle of scoundrels trying to make their mark on a rad ghost city. Blades gives us the idea of *narrative prompt back-pressure*, and *improvisational tools over premade kits*.
+- [Blades in the Dark](https://bladesinthedark.com/basics), a narrative game about a circle of scoundrels trying to make their mark on a rad ghost city. Blades gives us the idea of *narrative prompt back-pressure*, and *improvisational tools over pre-made kits*.
 - [The Cypher System](https://csol.montecookgames.com/), which itself is a narrative focused d20-centric general framework. From Cypher, we take the concept of *compositional character creation*, and the idea of *tiered difficulty ladders*.
 
 ## What you're looking at

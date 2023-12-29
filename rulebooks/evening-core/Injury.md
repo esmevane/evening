@@ -5,16 +5,7 @@ Injury is typically caused only by major moments, such as story actions or delib
 
 **Levels of injury.**  Injury is measured in levels, from 0 to 7. Every time you gain a level of injury, that number goes up. Whenever you reach a new level, you suffer an additional penalty as a result, outlined by the level.
 
-| Injury level | Effect                         |
-|:------------:|:------------------------------ |
-|      0       | None                           |
-|      1       | -3 to aptitude checks          |
-|      2       | -3 to attack and defense rolls |
-|      3       | -6 to aptitude checks          |
-|      4       | -6 to attack and defense rolls |
-|      5       | -9 to aptitude checks          |
-|      6       | -9 to attack and defense rolls |
-|      7       | Death                          |
+![[Table - Injury]]
 
 **Recovery.** Injury gradually goes away on its own with time and rest.
 

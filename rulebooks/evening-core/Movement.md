@@ -18,14 +18,7 @@ Some common kinds of movement are: flight, climbing, swimming, and burrowing.
 
 **Range.** A range is a band of distance. Everything within and up to a certain distance from you is within that range. So, something within 20 squares is "medium range".
 
-| Range    | Distance |
-| -------- |:--------:|
-| Touch    |    1     |
-| Adjacent |    2     |
-| Close    |    5     |
-| Near     |    10    |
-| Medium   |    20    |
-| Long     |    30    |
+![[Table - Movements]]
 
 **Movement actions.** Movement specific actions include:
 
