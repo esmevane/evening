@@ -10,7 +10,7 @@ Lots of embeds and linked content.
 
 ## Rulebooks So Far
 
-- [[Evening Core]]
+- [[rulebooks/evening-core/index]]
 
 ## Using Rulebooks
 
