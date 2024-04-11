@@ -1,9 +1,9 @@
 ---
 tag: mechanics
 ---
-Instead of making everything a pass / fail, checks, conditions and feature efficacy are both measured by degrees of success called **effect**. Effect maps circumstances and cheeck reesults into outcomes, and gives a way for the narrator, players, and the system to make roleplay organically impact things.
+Instead of making everything a pass / fail, checks, conditions and feature efficacy are both measured by degrees of success called **effect**. Effect maps circumstances and check results into outcomes, and gives a way for the narrator, players, and the system to make roleplay organically impact things.
 
-**Taking effect.** If something succeeds, it "takes effect". That means it achieves the baseline outcome, no better, no worse.
+**Taking effect.** If something succeeds, it *takes effect*. That means it achieves the baseline outcome, no better, no worse.
 
 **Effect level.** By default, whenever something takes effect, it does so at the baseline effect level. Increasing the effect level means the action has more impact, and decreasing it means it has less.
 

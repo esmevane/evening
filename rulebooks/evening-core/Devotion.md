@@ -1,7 +1,7 @@
 ---
 tag: progression, systems
 ---
-Focuses are powerful specializations or knacks that distinguish you from the your peers. Focuses are part of the [[Progression|progression]] of characters which reflects specializations in your chosen classes, or devotion to a new distinct kind of power entirely.
+Devotions are powerful specializations or knacks that distinguish you from the rest of your peers. Focuses are part of the [[Progression|progression]] of characters which reflects specializations in your chosen classes, or devotion to a new distinct kind of power entirely.
 
 **At first level.** At third level, you gain one focus level. You also gain the focus kit of the focus you select.
 

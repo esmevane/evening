@@ -19,7 +19,7 @@
 
 ## Formats
 
-![[Formats]]
+![[Blueprints]]
 
 ## Character Creation
 
@@ -39,7 +39,7 @@
 
 ## Focus
 
-![[Focus]]
+![[Devotion]]
 
 ## Discipline
 

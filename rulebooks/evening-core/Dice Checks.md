@@ -21,15 +21,17 @@ Here's a rough guideline:
 
 **Advantage and disadvantage.** In some cases, circumstance or a feature will let a character roll with advantage or disadvantage. In both cases, this means you roll 2d20 (which means two d20s at the same time). When you have advantage, you take the highest. When you have disadvantage, you take the lowest.
 
+It's possible to stack a bunch of advantage or disadvantage factors. Advantage cancels out disadvantage, and vice versa.
+
 **Modifiers.** Many things can modify the outcome of a roll, boosting or penalizing the result. These are called modifiers.
 
-- **Abilities, attributes, and aptitudes.** These are all modifiers that apply directly to any check that uses them. Only one of each can apply to a given check, so if you have two aptitudes that apply, go ahead and use your highest.
-- **Features and circumstances.** These are powers characters may have, or general circumstantial benefits from anything, like items and things like that. Don't apply one feature multiple times to the same check.
-
+- **Abilities, and attributes.** You may add one ability and one attribute to any check which they apply. These stack.
+- **Aptitudes.** Occasionally a character will have an aptitude with a kind of check. If they do, they may add their aptitude bonus to that check.
+- **Assets.** You may *leverage an asset* in order to add it to a check. This can be done a number of times per storyline, determined by the asset. You may only leverage one asset per check. See [[Resources]] for more.
+- **Features and circumstances.** These are powers characters may have, or general circumstantial benefits from anything, like items and things like that. Different features and circumstances stack.
 ### Group Checks
 
 An entire group of characters might need to make a check, for example if everyone is attempting to navigate a hostile city while in disguise. In this case, the narrator sets a target number normally, but everyone in the group makes a check against that number. If more than half of the group succeed, the group check succeeds. Otherwise, it fails.
-
 ### Contested Checks
 
-Sometimes a check is actively resisted. In the case of the narrator, this doesn't involve a roll, because it's handled with challenge or threat ratings. However, two characters can face off like this, and in those cases both of them make the same check, with the highest roll winning. If there's a tie, reroll until it breaks.
+Sometimes a check is actively resisted. In the case of the narrator, this doesn't involve a roll, because it's handled with tension ratings. However, two characters can face off like this, and in those cases both of them make the same check, with the highest roll winning. If there's a tie, re-roll until it breaks.
