@@ -6,8 +6,6 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Classes
-- [ ] Devotions
 - [ ] Disciplines
 - [ ] Aptitudes
 - [ ] Defense
@@ -33,7 +31,7 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] Origins
+- [ ] Devotions
 
 
 ## Done
@@ -47,6 +45,8 @@ kanban-plugin: basic
 - [x] Formats -> Blueprints
 - [x] Character Creation
 - [x] Progression
+- [x] Origins
+- [x] Classes
 
 
 

@@ -7,10 +7,10 @@ tags:
   - srd
 updated: 2023-12-28
 ---
-| Character Level | Feature |
-| :--: | :--- |
-| 1st | Origin kit, origin level (1) |
-| 5th | Origin level (2) |
-| 9th | Origin level (3) |
-| 13th | Origin level (4) |
-| 17th | Origin level (5) |
+| Character Level | Feature                     |
+| :-------------: | :-------------------------- |
+|       1st       | Origin kit, origin rank (1) |
+|       5th       | Origin rank (2)             |
+|       9th       | Origin rank (3)             |
+|      13th       | Origin rank (4)             |
+|      17th       | Origin rank (5)             |
