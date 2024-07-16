@@ -1,6 +1,6 @@
-- [ ] Focus is now Devotion.
+- [x] Focus is now Devotion.
 - [ ] Aptitudes listed in main document.
-- [ ] Formats are now Blueprints. Other suggestions that I liked were: Plans, Schemes, Scripts, Programs, and Patterns.
+- [x] Formats are now Blueprints. Other suggestions that I liked were: Plans, Schemes, Scripts, Programs, and Patterns.
 - [ ] Origins, Classes, Devotions, and Disciplines no longer have "levels", they have ranks. This is so that we can distinguish between character level and character option choices.
 - [ ] Inclusion of generic character options for origins, classes, devotions, and disciplines, as well as aptitudes, assets, and related moves.
 - [ ] Inclusion of "how to create your own" instructions for origins, classes, devotions, and disciplines.

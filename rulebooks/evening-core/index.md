@@ -1,6 +1,6 @@
 ## Introduction
 
-![[Introduction]]
+![[rulebooks/evening-core/Introduction]]
 ## The Rules
 
 ![[The Rules]]
@@ -72,11 +72,6 @@
 ## Equipment
 
 ![[Equipment]]
-
-## Resources
-
-![[Resources]]
-
 ## Movement
 
 ![[Movement]]
