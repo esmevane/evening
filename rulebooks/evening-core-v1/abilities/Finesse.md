@@ -1,0 +1,1 @@
+Finesse describes how much of an affinity the character has for quick or creative action. Speed, guile, and precision are all functions of a character’s Finesse. Pick Finesse whenever a character needs to do something thoroughly, or cleverly, or spontaneously.
