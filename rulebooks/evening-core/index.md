@@ -1,6 +1,6 @@
 ## Introduction
 
-![[rulebooks/evening-core/Introduction]]
+![[Introduction]]
 ## The Rules
 
 ![[The Rules]]
@@ -19,7 +19,7 @@
 
 ## Formats
 
-![[Blueprints]]
+![[Formats]]
 
 ## Character Creation
 
@@ -39,15 +39,11 @@
 
 ## Focus
 
-![[Devotion]]
+![[Focus]]
 
 ## Discipline
 
 ![[Discipline]]
-
-## Aptitudes
-
-![[Aptitudes]]
 
 ## Defense
 
@@ -72,6 +68,11 @@
 ## Equipment
 
 ![[Equipment]]
+
+## Resources
+
+![[Resources]]
+
 ## Movement
 
 ![[Movement]]
