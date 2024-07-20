@@ -4,13 +4,13 @@ The written materials for Evening and any other stuff for Evening finds its home
 
 ## How This Area Works
 
-Hopefully this is pretty straightforward. Here, sections are kept in a folder, for example, `evening-core`, and then the sections are collated into files next to this one, for example, `Evening Core`.
+Hopefully this is pretty straightforward. Here, sections are kept in a folder, for example, `evening-core-v0`, and then the sections are collated into files next to this one, for example, `Evening Core`.
 
 Lots of embeds and linked content.
 
 ## Rulebooks So Far
 
-- [[rulebooks/evening-core/index]]
+- [[rulebooks/evening-core-v0/index]]
 
 ## Using Rulebooks
 

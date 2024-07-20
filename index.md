@@ -1,1 +1,1 @@
-[[rulebooks/evening-core/index]]
+[[rulebooks/evening-core-v0/index]]
