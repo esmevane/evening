@@ -1,0 +1,8 @@
+Hello, and welcome to the second major draft of the Evening system reference document! Evening is a tabletop game kit designed with the following goals in mind:
+
+- **Zero prep games.** An Evening session should be something you and your friends can just do. That mostly includes the gadgets you'll need to play. You won't *need* maps or miniatures; just dice, paper, and pencils.
+- **Narrative focus, improvisational tools.** The Evening kit is made with the goal of giving you and your friends what you need to make up a story with each other, on the spot. Cause and effect, dramatic tensions, and narrative feedback are not left vague - instead, they're given tangible structure for you to play with.
+- **The best of the modern roleplaying world.** The tabletop world has changed a lot over the decades. We've taken ad-hoc rules and made them into cohesive frameworks, and taken unspoken intuitions and given them names, and made them teachable. Evening is about getting some of the best of these innovations and bringing them together.
+- **Easy to learn, easy to extend.** At the root of all this, Evening is a very basic kit. It has to be, in order to be zero-prep. It's all based on an easy to remember, and re-use set of core mechanics. Evening's creators don't even need books to play it anymore, and one day you might get to that point as well.
+
+What follows here should give you a good idea of what Evening is, how it works, and how to make things for yourself using it.

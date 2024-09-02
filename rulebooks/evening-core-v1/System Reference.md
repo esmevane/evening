@@ -1,0 +1,15 @@
+This is a system reference document. In practical terms, what that means for you as a reader is this: there are a lot of low-level design details in here. Almost everything written here is meant to demonstrate not only how Evening works as a game, but also how to design your own things for Evening as a system.
+
+**Your role as a reader.** Imagine you've just joined a team of game designers, and you're coming on board to help them design new game material. Collectively, these designers have built up this game engine and they've got a lot of insider knowledge they can impart. As you work with them, they coach you in how everything works and eventually, you become a designer yourself.
+
+Of course, there is no Evening game company, and there is no such team of game designers. Because of that, there's no way to impart this insider knowledge of how Evening works, under the hood. That's not an impasse for us, though, because we know how to write things down.
+
+**A design manual.** So, that's what this is: a reference manual of low-level design details about the Evening system. It goes into the rudimentary basics of how things work, and it also goes into *why*. That's because it treats you not just as a player, or a narrator, but a game designer who will contribute to the game at large.
+
+> **Design notes.** That means that, occasionally, you'll see blocks that explain the design reasons behind something. This isn't just so you "understand things". It's so that you can decide for yourself if the rule works for you, and so you have enough information to change things as you like.
+
+**Terseness and complexity.** Fundamentally, that means that things can get a little crunchy in this specific document. That's because it might need to answer questions for you on a level which will empower you to make your own stuff up later. The goal for this document is not to pitch Evening to you as a game, but rather to make sure that while you're here, you can play, narrate, or design with confidence.
+
+**Open source.** This is an open source work. That means it's meant to be distributed and re-used by whoever would like to. One assumption is that you own your own work on it if you make any. Another assumption is that you aren't beholden to us and we aren't beholden to you. You don't owe us any explanation, and we don't owe you any free work just because we've done this much free work already. Check out the license itself, included at the end of this document, for more information!
+
+**Feedback.** The whole point of this document is to make things easier to understand for you. It should make it easy for you to work with Evening games, as a player, as a narrator, and as a game designer. Anything that seems out of place or confusing, or which simply doesn't work as intended, is fine to treat as a bug. Evening appreciates earnest feedback on any of this.
